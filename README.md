@@ -22,11 +22,12 @@ To run this application, you'll need:
   - `langchain-community`
   - `typing-extensions`
   - `python-dotenv`
+  - `faiss-cpu`
 
 You can install the required packages using pip:
 
 ```bash
-pip install streamlit PyPDF2 langchain-openai langchain-community typing-extensions python-dotenv
+pip install streamlit PyPDF2 langchain-openai langchain-community typing-extensions python-dotenv faiss-cpu
 ```
 ## Setup
 
