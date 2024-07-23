@@ -5,3 +5,4 @@ langchain-community
 typing-extensions
 python-dotenv
 faiss-cpu
+requests
