@@ -23,11 +23,12 @@ To run this application, you'll need:
   - `typing-extensions`
   - `python-dotenv`
   - `faiss-cpu`
+  - `requests`
 
 You can install the required packages using pip:
 
 ```bash
-pip install streamlit PyPDF2 langchain-openai langchain-community typing-extensions python-dotenv faiss-cpu
+pip install streamlit PyPDF2 langchain-openai langchain-community typing-extensions python-dotenv faiss-cpu requests
 ```
 ## Setup
 
