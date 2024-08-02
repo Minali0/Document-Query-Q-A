@@ -65,7 +65,7 @@ This will start the Streamlit server, and you can access the app in your browser
 - If you select PDF file or Text file, use the file uploader to upload your document.
 - If you select URL, enter the URL of the page containing the text you want to query.
 
-![Image](Images/select_file.png)
+![Image](Images/select_image.png)
 
 ![Image](Images/browse_file.png)
 
